@@ -1,0 +1,90 @@
+.heading h2{
+    margin: 0 0 40px;
+    padding: 0 0 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #ffffff;
+    font-size: 144px;
+    font-weight: 800;
+    left: 0;
+    letter-spacing: 0;
+    line-height:138.2px ;
+    
+}
+
+.testymonial{
+    padding: 80px 0 34px;
+    background:#C98A40;
+    opacity: 1;
+    z-index: -99999;
+}
+
+.testymonialContent{
+    display: flex;
+    flex-wrap: wrap;
+    /* padding-left: 14px; */
+    
+}
+
+
+.box {
+    height: 192px;
+    width: 512px;
+    margin-bottom: 20px;
+}
+
+.box .group {
+    height: 192px;
+    left: 0;
+    /* position: fixed; */
+    top: 0;
+    width: 516px;
+    margin-bottom: 20px;
+}
+
+.box .overlapGroup {
+    background-color: #ffffff;
+    border-radius: 30px;
+    height: 192px;
+    position: relative;
+    width: 512px;
+    text-align: center;
+   
+}
+
+.box .img {
+    height: 18px;
+    left: 50px;
+    position: absolute;
+    top: 154px;
+    width: 114px;
+}
+
+.box .loremIpsum {
+    color: #333333;
+    font-family: "Poppins-Regular", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    left: 50px;
+    letter-spacing: 0;
+    line-height: 20px;
+    position: absolute;
+    top: 54px;
+    width: 412px;
+}
+
+.box .textWrapper {
+    color: #c88a40;
+    font-family: "Poppins-Black", Helvetica;
+    font-size: 16px;
+    font-weight: 900;
+    left: 50px;
+    letter-spacing: 0;
+    line-height: 24px;
+    position: absolute;
+    top: 20px;
+    width: 325px;
+}
+

@@ -1,0 +1,50 @@
+.image {
+  height: 740px;
+  width: 642px;
+}
+
+.image .rectangle {
+  padding: 120px 0 0 0;
+  text-align: center;
+  position: relative;
+  left: -20%;
+  top: 0;
+  width: 100%;
+
+}
+
+.text .aboutUs {
+  color: #ffffff;
+  font-family: "Sen-ExtraBold", Helvetica;
+  font-size: 144px;
+  font-weight: 800;
+  letter-spacing: 0;
+  line-height: 138.2px;
+  padding-top: 100px;
+
+}
+
+.loremIpsum {
+  color: #ffffff;
+  font-family: "Poppins-SemiBold", Helvetica;
+  font-size: 18px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 26px;
+  width: 508px;
+}
+
+.text{
+  display: inline-grid;;
+  justify-content: center;
+  background-color: #C98A40;
+
+}
+
+.btn{
+  background-color: #FDBA10;
+  border-radius: 30px;
+  color: #fff;
+  width: 194px;
+  height: 60px;
+}
